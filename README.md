@@ -1,4 +1,4 @@
-# <img src="https://github.com/linera-io/linera-protocol/assets/1105398/fe08c941-93af-4114-bb83-bcc0eaec95f9" width="250" height="90" />
+# <img src="https://www.img2go.com/ai-creator-studio#j=4946c0de-551e-4de3-800e-6501925afdb3" width="250" height="90" />
 
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 [![Build Status for Rust](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
